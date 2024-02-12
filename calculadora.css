@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
+body {
+    font-family: 'Amatic SC', sans-serif;
+    text-align: center;
+    height: 100vh;
+    background-image: linear-gradient(#FF6000, #FFE6C7)
+}
+
+#title {
+    font-size: 50px;
+    text-align: center;
+}
+
+
+.subtitle{
+    font-size: 30px;
+}
+
+#numberA{
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+#numberB{
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+#boton-clear{
+    width: 100px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+#boton-suma{
+    border-color: black;
+}
+
+#boton-resta{
+    border-color: black;
+}
+
+#boton-multi{
+    border-color: black;
+}
+
+#boton-divi{
+    border-color: black;
+}
+
+#result {
+    font-size: 30px;
+}
